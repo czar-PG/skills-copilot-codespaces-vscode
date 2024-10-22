@@ -96,4 +96,7 @@ function skillsMember() {
     'Security Culture',
     'Security Leadership',
     'Security Management',
-    '
+    ];
+  
+    return skills;
+  }
